@@ -5,10 +5,14 @@
 
 Blinkit is a Steem notification software for Windows, that notifies you in real time with sound and light about Steem account activity. Blinkit can blink the lights of the following products:
 
-- Regular USB sticks,
-- Sonoff Smart switches
-- Philips hue lights
-- Arduino Prototyping boards
+#### Supported devices:
+* USB Sticks (status light)
+* Philips HUE lamps
+* Sonoff devices
+* Arduino Boards or compatible (Genuino, etc...)
+* Camera status LED blink
+* Take photos on upvote/post/follow
+* Logitech RGB/Backlight Keyboards (new)
 
 ### Installation instructions for Windows
 
