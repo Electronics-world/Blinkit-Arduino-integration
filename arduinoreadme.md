@@ -16,11 +16,11 @@ Blinkit Arduino integration <br />Receive notifications on Arduino boards.
   <a href="https://github.com/techtek/Blinkit/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/techtek/Blinkit.svg" />
   </a>
-  <a href="https://twitter.com/intent/tweet?url=https://github.com/techtek/Blinkit&text=Download%20%23Blinkit%20interface%20and%20receive%20live%20notifications%20on%20Steem%20related%20actions%20">
-    <img src="https://img.shields.io/twitter/url/https/github.com/techtek/Blinkit.svg?style=social" />
-  </a>
   <a href="https://steemit.com/@electronicsworld">
     <img src="https://img.shields.io/badge/Steemit-%40electronicsworld-blue.svg" />
+  </a>
+  <a href="https://twitter.com/intent/tweet?url=https://github.com/techtek/Blinkit&text=Download%20%23Blinkit%20interface%20and%20receive%20live%20notifications%20on%20Steem%20related%20actions%20">
+    <img src="https://img.shields.io/twitter/url/https/github.com/techtek/Blinkit.svg?style=social" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Blinkit is a Steem notification software for Windows, that notifies you in real 
 * USB Sticks (status light)
 * Philips HUE lamps
 * Sonoff devices
-* [Arduino Boards](https://steemit.com/@electronicsworld)or compatible (Genuino, etc...)
+* [Arduino Boards](https://steemit.com/@electronicsworld) or compatible (Genuino, etc...)
 * Camera status LED blink
 * Take photos on upvote/post/follow
 * Logitech RGB/Backlight Keyboards 
